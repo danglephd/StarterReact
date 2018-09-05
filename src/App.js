@@ -2,9 +2,9 @@ import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
-import { AppRegistry,Alert, StyleSheet } from 'react';// 'react-native';
-import { Text, TextInput, Button, View } from 'react';//from 'react-native';
-import { Image } from 'react';//from 'react-native';
+import { AppRegistry,Alert, StyleSheet } from 'react-native';
+import { Text, TextInput, Button, View } from 'react-native';
+import { Image } from 'react-native';
 
 class Bananas extends Component {
   render() {
